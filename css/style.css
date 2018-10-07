@@ -1,7 +1,9 @@
 /*////////////// Fonts //////////////*/
 
-@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie+Swash+Caps:400,900');
-
+@font-face {
+    font-family: Baskerville
+    src: url(Baskerville.ttc)
+}
 /*////////// Global Styles //////////*/
 
 body {
